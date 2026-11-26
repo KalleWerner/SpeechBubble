@@ -1,6 +1,7 @@
 # SpeechBubble
 ## Setup of the speech recognition part
 I built and tested this on Ubuntu 26.04.1 LTS
+
 0. Clone the project repository
 1. Install dependencies:
    ```bash
